@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0a0a0c;
+  --color-primary: #00f2ff;
+  --color-secondary: #7000ff;
+  --color-accent: #ff00c8;
+  --color-surface: #16161a;
+
+  --shadow-neon: 0 0 5px #00f2ff, 0 0 20px #00f2ff;
+  --shadow-neon-purple: 0 0 5px #7000ff, 0 0 20px #7000ff;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-gray-100 font-sans;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-surface/50 backdrop-blur-md border border-white/10 rounded-xl;
+  }
+
+  .btn-primary {
+    @apply bg-primary text-background font-bold px-6 py-2 rounded-lg hover:shadow-neon transition-all duration-300;
+  }
+
+  .neon-text {
+    @apply text-primary drop-shadow-[0_0_8px_rgba(0,242,255,0.8)];
+  }
+
+  .sidebar-link {
+    @apply flex items-center space-x-3 p-3 rounded-lg hover:bg-white/5 transition-colors;
+  }
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "u002",
+        "name": "Priyanshu",
+        "email": "priyanshushakya373@gmail.com",
+        "password": "$2b$12$owk1LdfFzhpUODqIVkegbu3nGy.VbBZ/PEUtKiP/iGICgaJf.MQe6",
+        "age": 19,
+        "language": "English",
+        "memory_mode": "Student",
+        "created_at": "/Users/priyanshu/Desktop/DeepRecall"
+    }
+]

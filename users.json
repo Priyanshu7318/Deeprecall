@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": "u001",
+        "name": "Alice",
+        "email": "alice@test.com",
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+    },
+    {
+        "user_id": "u002",
+        "name": "Bob",
+        "email": "bob@test.com",
+        "password": "80e9d0efe2d4f822c2ca5539dc8065b0cac985998e10929324221d8223d97db7"
+    }
+]

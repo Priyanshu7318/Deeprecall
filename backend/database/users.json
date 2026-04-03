@@ -1,0 +1,22 @@
+[
+    {
+        "user_id": "u001",
+        "name": "ansh",
+        "email": "priyanshushakya373@gmail.com",
+        "password": "$2b$12$F7tCreUnBjaWGJM4vlHACOtIyY5U68oW03IaBoudOcR.eUVGWaL6e",
+        "age": 19,
+        "language": "English",
+        "memory_mode": "Student",
+        "created_at": "/Users/priyanshu/Desktop/DeepRecall/backend"
+    },
+    {
+        "user_id": "u002",
+        "name": "ram",
+        "email": "ram@gmail.com",
+        "password": "$2b$12$/dJYXOmH5QPCVRa9Tn9aU.BjEb863R6aWPPPnvOf5jIJ6NrePPZ.m",
+        "age": 25,
+        "language": "English",
+        "memory_mode": "Professional",
+        "created_at": "/Users/priyanshu/Desktop/DeepRecall/backend"
+    }
+]
