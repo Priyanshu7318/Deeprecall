@@ -79,7 +79,7 @@ graph TD
 *   **Multi-modal Delivery:** Provides information via chat, notifications, or voice assistants.
 
 ## Technical Stack (Recommended)
-*   **Language:** Python
+*   **Language:** Python 3.10.10
 *   **LLM:** GPT-4o or Claude 3.5 Sonnet
 *   **Vector DB:** ChromaDB (Local) or Pinecone (Cloud)
 *   **STT/TTS:** OpenAI Whisper / ElevenLabs
